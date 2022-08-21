@@ -45,3 +45,4 @@ Para desplegar este proyecto ejecutar
 ```bash
   php artisan serve
 ```
+- Para hacer peticiones a los endpoint debera añadir el header "x-ccloud-auth" con el valor de "prueba" en la solicitud
