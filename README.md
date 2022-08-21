@@ -15,6 +15,8 @@ Dentro de la raíz del proyecto ejecutar:
 ```bash
   composer install
 ```
+- Crear base de datos
+
 - Generar archivo .env
 
 Podemos duplicar el archivo .env.example, renombrarlo a .env e incluir los datos de conexión de la base de datos.
